@@ -1,3 +1,4 @@
+      Hi 👋, I'm Arbind Das
 <h3 align="center">Bringing ideas to life with code — a dedicated developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbinddas&label=Profile%20views&color=0e75b6&style=flat" alt="arbinddas" /> </p>
