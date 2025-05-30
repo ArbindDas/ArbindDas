@@ -1,9 +1,5 @@
-     
+<h1 align="center">Hi 👋, I'm Arbind Das</h1>
 <h3 align="center">Bringing ideas to life with code — a dedicated developer from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbinddas&label=Profile%20views&color=0e75b6&style=flat" alt="arbinddas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbinddas" alt="arbinddas" /></a> </p>
 
 - 🔭 I’m currently working on [online-pharmacy-management](https://github.com/ArbindDas/online-pharmacy-management)
 
