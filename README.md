@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Arbind Das</h1>
 <h3 align="center">Bringing ideas to life with code — a dedicated developer from Nepal</h3>
 
-- 🔭 I’m currently working on [online-pharmacy-management](https://github.com/ArbindDas/online-pharmacy-management)
+- 🔭 I’m currently working on [PharmaFlow](https://github.com/ArbindDas/PharmaFlow)
 
 - 🌱 I’m currently learning **🌱 I’m currently learning AWS Cloud Computing to level up my skills in scalable and secure cloud solutions.**
 
