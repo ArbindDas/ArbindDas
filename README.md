@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [PharmaFlow](https://github.com/ArbindDas/PharmaFlow)
 
-- 🌱 I’m currently learning **🌱 I’m currently learning AWS Cloud Computing to level up my skills in scalable and secure cloud solutions.**
+- 🌱 I’m currently learning AWS Cloud Computing to level up my skills in scalable and secure cloud solutions.**
 
 - 💬 Ask me about **Spring Boot, MySQL, Redis, MongoDB, Java, C#**
 
