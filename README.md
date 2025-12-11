@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Arbind Das</h1>
 <h3 align="center">Bringing ideas to life with code — a dedicated developer from Nepal</h3>
 
-- 🔭 I’m currently working on [CoreVault](CoreVault://github.com/ArbindDas/CoreVault)
+- 🔭 I’m currently working on [CoreVault](https://github.com/ArbindDas/CoreVault)
 
 - 🌱 I’m currently learning AWS Cloud Computing to level up my skills in scalable and secure cloud solutions.**
 
